@@ -1,0 +1,44 @@
+{
+  "archive_sha256": "90e65258a47869c0433cbf9f91f63fe4881a4d8e36dbf0a835151b5ed06c75a8",
+  "archive_bytes": 269238969,
+  "parts": [
+    {
+      "name": "aism.part001",
+      "bytes": 41943040,
+      "sha256": "a3cc11ca7011c228d446d44bc9f6912c9122856978747daa12a5b1641ef3fe28"
+    },
+    {
+      "name": "aism.part002",
+      "bytes": 41943040,
+      "sha256": "45fcfdf24b46d511d0dd92e982f8cb1a4d8d2423c8c0279334153e903a8393d8"
+    },
+    {
+      "name": "aism.part003",
+      "bytes": 41943040,
+      "sha256": "334aaec16db498cab664bbdb4a8d5c15e865b722fbf9604bf5133eae47ac0995"
+    },
+    {
+      "name": "aism.part004",
+      "bytes": 41943040,
+      "sha256": "627bbabd3c7db330cbb0b1fd86790b3f9b3696291a94399f491141145844ac74"
+    },
+    {
+      "name": "aism.part005",
+      "bytes": 41943040,
+      "sha256": "0eac10ecb425934c6b0e2b02a1755e9b404cc25ec5b758a1c2dca79211b6063c"
+    },
+    {
+      "name": "aism.part006",
+      "bytes": 41943040,
+      "sha256": "0d55eec4eaefc5a24380d577bfe52c720b029c6f5f73e82f9196a5fa69465f2c"
+    },
+    {
+      "name": "aism.part007",
+      "bytes": 17580729,
+      "sha256": "f19c9e2674f476bfd3a40634c7beca19b48913d7ac438b9dbf063468f2ebe265"
+    }
+  ],
+  "reassembly_integrity": "passed",
+  "installed_on_user_computer": false,
+  "verification": "Archive and all parts verified before upload; run Install-to-C.cmd locally to restore."
+}
